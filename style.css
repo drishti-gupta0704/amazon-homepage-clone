@@ -35,12 +35,15 @@ html, body {
 
 .border{
   border:2px solid transparent;   /* all elements on hovering gets a white border */
+  transition: border 0.3s ease, background-color 0.3s ease;
 }
 
 .border:hover{
-
-  border:1.5px solid white;
+ border:1.5px solid white;
+ background-color: rgba(255, 255, 255, 0.1);
+ cursor: pointer;
 }
+
 
 /* styling box 2 */
 
