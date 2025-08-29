@@ -15,5 +15,6 @@
 - Font Awesome(for icons)
 
 ## 🔗 Live Demo of project 
-[View Project](link) 🚀
+[View Project](https://clonehomepageamazon.netlify.app/) 🚀
+
 
