@@ -1,0 +1,158 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: arial ;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    color:rgb(248, 241, 241);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height: 60px;
+    width: 110px;
+    /* add a container for settinga a background image */
+}
+
+.logo{
+    background-image: url("image.png");
+    background-size:cover;
+    transform: translateY(10px);  /* fixing img alignment */
+    height: 35px; 
+    width: 100%;
+    /* without setting up height and width we cant set bg image */
+}
+
+.border{
+  border:2px solid transparent;   /* all elements on hovering gets a white border */
+}
+
+.border:hover{
+
+  border:1.5px solid white;
+}
+
+/* styling box 2 */
+
+.add-first{
+  color:#cccccc ;
+  font-size:0.85rem; /*for responsive */
+  margin-left:28px;
+
+}
+.add-sec{
+  font-size: 1 rem;
+  margin-left:3px;
+}
+
+.add-icon{
+  display:flex;
+ 
+  align-items: center;
+  margin-left: 5px;
+ }
+
+ /* styling now box 3 */
+ .nav-search{
+  display:flex;
+  justify-content: space-evenly;
+  /* background-color: bisque; */
+  width:620px;
+  height: 40px;
+  border-radius: 4px;
+ }
+
+ .nav-search:hover{
+  border: 2px solid orange;
+ }
+
+ .search-select{
+  background-color: #f3f3f3;
+  width:50px;
+  text-align: center;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border:none; /* removes the by default border */
+ }
+
+ .search-input{
+  width:100%;  /* so that leftover space is given to rest */
+  font-size: 1 rem;
+  border:none;  /* removes the by default border */
+}
+
+.search-icon{
+  width:45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem; /* setting size of search icon */
+  background-color: #febd68;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+/* styling for box 4 */
+
+span{
+  font-size: 0.7rem;
+}
+.nav-second {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+/* box 5 */
+
+.nav-cart {
+  
+  display:flex;
+}
+
+.nav-cart i {
+  font-size: 30px;
+}
+.nav-cart h1{
+  font-size: 0.85rem;
+  transform: translateY(12px);
+}
+
+/* panel */
+
+.panel{
+  display: flex;
+  height:40px;
+  background-color: #222f3d;
+  color:white;
+  align-items: center;
+  justify-content: space-evenly;
+ }
+
+.panel-ops {
+  display:flex;
+  width:70%; /* since this block is occupying 70% of the width */
+  font-size: 0.85rem;
+}
+
+.panel-ops p{
+  margin-left:10px;    /* adding margin between the paragraphs */
+}
+
+.panel-all{
+  display:flex;
+}
+
+.panel-deals{
+  font-size: 0.9rem;
+  font-weight: 700;
+}
