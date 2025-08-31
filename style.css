@@ -165,11 +165,11 @@ span{
 
 .hero-section{
   background-image: url(amazon_homepage.png);
-  height:400px;
+  height:350px;
   background-size: cover;
   display: flex;
   justify-content: center;
-
+  align-items: flex-end;  /* to bring the hero-msg on bottom */
 }
 
 
