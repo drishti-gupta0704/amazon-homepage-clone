@@ -183,3 +183,8 @@ span{
   width:80%;
   margin-bottom: 25px;  /* to uplift the hero-msg text a bit */
 }
+
+.hero-msg a{
+  color: #007185;
+}
+
