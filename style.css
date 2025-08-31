@@ -159,3 +159,17 @@ span{
   font-size: 0.9rem;
   font-weight: 700;
 }
+
+
+/* adding hero section..image */
+
+.hero-section{
+  background-image: url(amazon_homepage.png);
+  height:400px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+
+}
+
+
