@@ -205,3 +205,11 @@ span{
   margin-top: 15px;
 }
  
+.box-img{
+  height: 325px;
+  background-size:cover;
+ 
+  background-repeat: no-repeat; 
+  width:100%;
+  
+ }
