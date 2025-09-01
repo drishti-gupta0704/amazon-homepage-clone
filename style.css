@@ -208,7 +208,7 @@ span{
 .box-img{
   height: 325px;
   background-size:cover;
- 
+  background-position: center;    /* because image was'nt fitting */
   background-repeat: no-repeat; 
   width:100%;
   
