@@ -18,8 +18,11 @@
 [View Project](https://clonehomepageamazon.netlify.app/) 🚀
 
 ### 📸 Screenshot of the project
-<img src="screenshot/snapshot1.png" alt="this is snapshot of the project" width="300">
-<img src="screenshot/snapshot2.png" alt="this is snapshot of the project" width="300">
-<img src="screenshot/snapshot3.png" alt="this is snapshot of the project" width="300">
+
+<p align ="center">
+  <img src="screenshot/snapshot1.png" alt="this is snapshot of the project" width="450">
+  <img src="screenshot/snapshot2.png" alt="this is snapshot of the project" width="450">
+</p>
+<img src="screenshot/snapshot3.png" alt="this is snapshot of the project" width="500">
 
 
