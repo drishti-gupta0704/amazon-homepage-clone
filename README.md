@@ -17,4 +17,9 @@
 ## 🔗 Live Demo of project 
 [View Project](https://clonehomepageamazon.netlify.app/) 🚀
 
+### 📸 Screenshot of the project
+<img src="amazon_clone/screenshot img/snapshot1.png" alt="this is snapshot of the project" width="300">
+<img src="amazon_clone/screenshot img/snapshot2.png" alt="this is snapshot of the project" width="300">
+<img src="amazon_clone/screenshot img/snapshot3.png" alt="this is snapshot of the project" width="300">
+
 
