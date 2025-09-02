@@ -271,3 +271,45 @@ color:#dddddd;
 
 }
 
+/*foot panel3 */
+.foot-panel3{
+  background-color: #222f3d;
+  color: white;
+  border-top: 0.5px solid white;  /* adding border upside */
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.logo{
+  background-image: url(image.png);
+  background-size: cover;
+  height:30px;
+  width:100px;
+}
+
+/* panel4 */
+
+.foot-panel4{
+  background-color: #0f1111;
+  color: white;
+  height:100px;
+  /* display:flex;
+  justify-content: center;
+  align-items: center; */
+
+}
+
+.pages{
+font-size: 0.7rem;
+text-align: center;
+padding-top: 25px;
+}
+
+.copyright{
+font-size: 0.75rem;
+text-align: center;
+padding-top:center ;
+}
