@@ -164,7 +164,7 @@ span{
 /* adding hero section..image */
 
 .hero-section{
-  background-image: url(amazon_homepage.png);
+  background-image: url("amazon_homepage.png");
   height:350px;
   background-size: cover;
   display: flex;
@@ -283,8 +283,8 @@ color:#dddddd;
 
 }
 
-.logo{
-  background-image: url(image.png);
+.logo1{
+  background-image: url("image.png");
   background-size: cover;
   height:30px;
   width:100px;
