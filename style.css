@@ -234,4 +234,8 @@ footer{
   color: white;
   height:50px;
   font-size:0.85rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
