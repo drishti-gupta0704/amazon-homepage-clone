@@ -20,9 +20,9 @@
 ### 📸 Screenshot of the project
 
 <p align ="center">
-  <img src="screenshot/snapshot1.png" alt="this is snapshot of the project" width="450">
-  <img src="screenshot/snapshot2.png" alt="this is snapshot of the project" width="450">
+  <img src="screenshot/snapshot1.png" alt="this is snapshot of the project" width="600">
+  <img src="screenshot/snapshot2.png" alt="this is snapshot of the project" width="600">
 </p>
-<img src="screenshot/snapshot3.png" alt="this is snapshot of the project" width="500">
+
 
 
