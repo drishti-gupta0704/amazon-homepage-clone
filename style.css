@@ -239,3 +239,35 @@ footer{
   align-items: center;
 
 }
+
+.foot-panel2{
+  background-color: #222f3d;
+  color:white;
+  height:300px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ul{
+  margin-top: 20px;
+}
+
+ul a{
+display: block;
+font-size: 0.85rem;
+margin-top:10px;
+color:#dddddd;
+}
+
+/*foot panel3 */
+.foot-panel3{
+  background-color: #222f3d;
+  color: white;
+  border-top: 0.5px solid white;  /* adding border upside */
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
